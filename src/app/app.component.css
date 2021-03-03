@@ -1,0 +1,22 @@
+nav a{
+    width: 70px;
+    line-height: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 1px;
+    background: teal;
+    color: white;
+    margin: 0px 10px;
+    
+}
+
+nav a.active{
+    color:aquamarine;
+    background: black;
+    
+}
+
